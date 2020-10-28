@@ -4,3 +4,5 @@ const hej = () => {
 Hejhej
 
 Hej hej atlal här 
+For (int I = 0; I < 10; I++)
+Print (i) 
