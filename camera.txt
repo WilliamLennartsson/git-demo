@@ -2,3 +2,6 @@
 Hello 
 Init camera 
 Allååå
+Public static hello (){
+ Int I = 10;
+}
