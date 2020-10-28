@@ -10,3 +10,5 @@ da
 spda
 sda
 sd
+For (int I = 0; I < 10; I++)
+Print (i) 

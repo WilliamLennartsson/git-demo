@@ -1,4 +1,8 @@
+Rör inte min kod är du snäll, den här är superviktig.
 
 Hello 
 Init camera 
 Allååå
+Public static hello (){
+ Int I = 10;
+}
